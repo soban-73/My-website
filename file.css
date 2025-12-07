@@ -5,7 +5,7 @@ html, body {
 
 body {
 
-    background-image: url("/practice/multimedia/bg.jpeg");
+    background-image: url("bg.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -73,6 +73,7 @@ section
 
 
 /* TEST*/
+
 
 
 
