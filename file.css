@@ -114,12 +114,29 @@ background-color: rgb(53, 52, 52);
   text-decoration-color: #96b348;
   text-underline-offset: 10px;
 }
+footer{
+    text-align: center;
+    border: white 2px solid;
+}
+a[href="instagram.com/soban.__94"] img{
+    border: 0;
+    width:40px;
+    display: inline;
+    height:40px;
+    margin-right:10px;
+}
+a[href="gmail.com"] img{
+    display: inline;
+    width:40px;
+    height:40px;
+}
 
 
 
 
 
 /* TEST  font-family: 'Roboto', sans-serif;  font-family: 'Playfair Display', serif;*/
+
 
 
 
