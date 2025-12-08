@@ -3,7 +3,10 @@
     margin: 0;
     padding: 0;
 }
-
+body{
+    margin-bottom: 100x;
+    background-color: #96b348;
+}
 button{
     margin-top: 5px;
     margin-bottom: 5px;
@@ -69,7 +72,8 @@ img[src$="jpeg"]{
     align-items: center;
     gap:20px;
     border: #423b3b 5px solid;
- 
+   height: 200px;
+   width: 250px;
 }
 section
 {
@@ -81,7 +85,8 @@ section
      background-color: grey;
       margin-top: 20px;
       margin-right:50px;
-      margin-bottom: 20px;
+      margin-bottom: 30px;
+
 }
 .product-card li{
 
@@ -132,11 +137,7 @@ a[href="gmail.com"] img{
 }
 
 
-
-
-
 /* TEST  font-family: 'Roboto', sans-serif;  font-family: 'Playfair Display', serif;*/
-
 
 
 
